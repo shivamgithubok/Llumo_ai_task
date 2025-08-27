@@ -1,7 +1,7 @@
 # Multi-Agent System with LangGraph and Gemini
 
 This project implements a **multi-agent system** capable of planning, routing queries to the correct tools, and generating answers based on a knowledge base and computational tools.  
-The agent is built using the **langgraph** library, with **Google's Gemini Pro** as the core reasoning model.
+The agent is built using the **langgraph** library, with **Google's Gemini flash** as the core reasoning model.
 
 ---
 
@@ -21,7 +21,7 @@ The agent is built using the **langgraph** library, with **Google's Gemini Pro**
 
 ```
 .
-├── agent.py              # Main agent logic and tool definitions [cite: 28]
+├── agent.ipynb              # Main agent logic and tool definitions [cite: 28]
 ├── knowledgeBase.txt     # Provided knowledge base with source documents [cite: 29]
 ├── logs.json             # Structured JSON logs for the 5 test queries [cite: 30]
 └── README.md             # This file 

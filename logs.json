@@ -1,0 +1,3954 @@
+{
+    "What is LLUMO Al's core value proposition?": [
+        [
+            {
+                "content": "What is LLUMO Al's core value proposition?",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            }
+        ],
+        [
+            {
+                "content": "What is LLUMO Al's core value proposition?",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "retriever",
+                        "arguments": "{\"query\": \"LLUMO AI core value proposition\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--72f1bb40-80a3-496c-93ce-4d32e5520bf2-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "retriever",
+                        "args": {
+                            "query": "LLUMO AI core value proposition"
+                        },
+                        "id": "b39047ad-a20b-4194-af2b-61f92b50a359",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 219,
+                    "output_tokens": 10,
+                    "total_tokens": 229,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ],
+        [
+            {
+                "content": "What is LLUMO Al's core value proposition?",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "retriever",
+                        "arguments": "{\"query\": \"LLUMO AI core value proposition\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--72f1bb40-80a3-496c-93ce-4d32e5520bf2-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "retriever",
+                        "args": {
+                            "query": "LLUMO AI core value proposition"
+                        },
+                        "id": "b39047ad-a20b-4194-af2b-61f92b50a359",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 219,
+                    "output_tokens": 10,
+                    "total_tokens": 229,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "[\"LLUMO AI is an evaluation-first reliability layer for LLM apps. It focuses on automated scoring, actionable insights, and cost savings via prompt compression\u2014helping teams ship trustworthy AI.\"]",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "retriever",
+                "id": null,
+                "tool_call_id": "b39047ad-a20b-4194-af2b-61f92b50a359",
+                "artifact": null,
+                "status": "success"
+            }
+        ],
+        [
+            {
+                "content": "What is LLUMO Al's core value proposition?",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "retriever",
+                        "arguments": "{\"query\": \"LLUMO AI core value proposition\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--72f1bb40-80a3-496c-93ce-4d32e5520bf2-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "retriever",
+                        "args": {
+                            "query": "LLUMO AI core value proposition"
+                        },
+                        "id": "b39047ad-a20b-4194-af2b-61f92b50a359",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 219,
+                    "output_tokens": 10,
+                    "total_tokens": 229,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "[\"LLUMO AI is an evaluation-first reliability layer for LLM apps. It focuses on automated scoring, actionable insights, and cost savings via prompt compression\u2014helping teams ship trustworthy AI.\"]",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "retriever",
+                "id": null,
+                "tool_call_id": "b39047ad-a20b-4194-af2b-61f92b50a359",
+                "artifact": null,
+                "status": "success"
+            },
+            {
+                "content": "LLUMO AI is an evaluation-first reliability layer for LLM apps. It focuses on automated scoring, actionable insights, and cost savings via prompt compression\u2014helping teams ship trustworthy AI.",
+                "additional_kwargs": {},
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--a241ce4c-8f6f-445c-84ff-31e410808f3d-0",
+                "example": false,
+                "tool_calls": [],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 270,
+                    "output_tokens": 39,
+                    "total_tokens": 309,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ]
+    ],
+    "What does the LLUMO Debugger show that helps isolate failures?": [
+        [
+            {
+                "content": "What does the LLUMO Debugger show that helps isolate failures?",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            }
+        ],
+        [
+            {
+                "content": "What does the LLUMO Debugger show that helps isolate failures?",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "retriever",
+                        "arguments": "{\"query\": \"LLUMO Debugger features for failure isolation\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--692ae61e-90c3-4134-8d23-4ae19be9ab5d-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "retriever",
+                        "args": {
+                            "query": "LLUMO Debugger features for failure isolation"
+                        },
+                        "id": "ce7349c1-5ea2-4312-a2bf-0cb06439364c",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 221,
+                    "output_tokens": 12,
+                    "total_tokens": 233,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ],
+        [
+            {
+                "content": "What does the LLUMO Debugger show that helps isolate failures?",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "retriever",
+                        "arguments": "{\"query\": \"LLUMO Debugger features for failure isolation\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--692ae61e-90c3-4134-8d23-4ae19be9ab5d-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "retriever",
+                        "args": {
+                            "query": "LLUMO Debugger features for failure isolation"
+                        },
+                        "id": "ce7349c1-5ea2-4312-a2bf-0cb06439364c",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 221,
+                    "output_tokens": 12,
+                    "total_tokens": 233,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "[\"LLUMO\u2019s Debugger shows run-level logs, stepwise tool traces, and a flow graph to isolate failure points such as tool selection errors or context mismatch.\"]",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "retriever",
+                "id": null,
+                "tool_call_id": "ce7349c1-5ea2-4312-a2bf-0cb06439364c",
+                "artifact": null,
+                "status": "success"
+            }
+        ],
+        [
+            {
+                "content": "What does the LLUMO Debugger show that helps isolate failures?",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "retriever",
+                        "arguments": "{\"query\": \"LLUMO Debugger features for failure isolation\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--692ae61e-90c3-4134-8d23-4ae19be9ab5d-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "retriever",
+                        "args": {
+                            "query": "LLUMO Debugger features for failure isolation"
+                        },
+                        "id": "ce7349c1-5ea2-4312-a2bf-0cb06439364c",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 221,
+                    "output_tokens": 12,
+                    "total_tokens": 233,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "[\"LLUMO\u2019s Debugger shows run-level logs, stepwise tool traces, and a flow graph to isolate failure points such as tool selection errors or context mismatch.\"]",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "retriever",
+                "id": null,
+                "tool_call_id": "ce7349c1-5ea2-4312-a2bf-0cb06439364c",
+                "artifact": null,
+                "status": "success"
+            },
+            {
+                "content": "LLUMO's Debugger shows run-level logs, stepwise tool traces, and a flow graph to isolate failure points such as tool selection errors or context mismatch.",
+                "additional_kwargs": {},
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--93e5c998-37d9-42ba-beb5-0e8b36e978b8-0",
+                "example": false,
+                "tool_calls": [],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 270,
+                    "output_tokens": 35,
+                    "total_tokens": 305,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ]
+    ],
+    "What are the official working hours and overtime rules?": [
+        [
+            {
+                "content": "What are the official working hours and overtime rules?",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            }
+        ],
+        [
+            {
+                "content": "What are the official working hours and overtime rules?",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "policy_lookup",
+                        "arguments": "{\"query\": \"working hours and overtime rules\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--0ac6eab0-c3ab-44b4-98fc-b689c6f623f1-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "policy_lookup",
+                        "args": {
+                            "query": "working hours and overtime rules"
+                        },
+                        "id": "241a93b3-6068-4c5a-a556-7c3c4c39bb1a",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 217,
+                    "output_tokens": 9,
+                    "total_tokens": 226,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ],
+        [
+            {
+                "content": "What are the official working hours and overtime rules?",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "policy_lookup",
+                        "arguments": "{\"query\": \"working hours and overtime rules\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--0ac6eab0-c3ab-44b4-98fc-b689c6f623f1-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "policy_lookup",
+                        "args": {
+                            "query": "working hours and overtime rules"
+                        },
+                        "id": "241a93b3-6068-4c5a-a556-7c3c4c39bb1a",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 217,
+                    "output_tokens": 9,
+                    "total_tokens": 226,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "Standard working hours are 10:00 to 18:30 IST, Monday to Friday. Flexible timings are allowed with manager approval.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "policy_lookup",
+                "id": null,
+                "tool_call_id": "241a93b3-6068-4c5a-a556-7c3c4c39bb1a",
+                "artifact": null,
+                "status": "success"
+            }
+        ],
+        [
+            {
+                "content": "What are the official working hours and overtime rules?",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "policy_lookup",
+                        "arguments": "{\"query\": \"working hours and overtime rules\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--0ac6eab0-c3ab-44b4-98fc-b689c6f623f1-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "policy_lookup",
+                        "args": {
+                            "query": "working hours and overtime rules"
+                        },
+                        "id": "241a93b3-6068-4c5a-a556-7c3c4c39bb1a",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 217,
+                    "output_tokens": 9,
+                    "total_tokens": 226,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "Standard working hours are 10:00 to 18:30 IST, Monday to Friday. Flexible timings are allowed with manager approval.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "policy_lookup",
+                "id": null,
+                "tool_call_id": "241a93b3-6068-4c5a-a556-7c3c4c39bb1a",
+                "artifact": null,
+                "status": "success"
+            },
+            {
+                "content": "Okay, the standard working hours are 10:00 to 18:30 IST, Monday to Friday. Flexible timings are allowed with manager approval. I wasn't able to find specific overtime rules. I can try a more general search if you would like?",
+                "additional_kwargs": {},
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--3baaf7f6-71c8-4de5-9d6f-39b25f82e345-0",
+                "example": false,
+                "tool_calls": [],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 261,
+                    "output_tokens": 58,
+                    "total_tokens": 319,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ]
+    ],
+    "How do reimbursements work and how long do they take after approval?": [
+        [
+            {
+                "content": "You are a helpful assistant. Your job is to answer the user's query by using the tools provided. Do not make up answers.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "system",
+                "name": null,
+                "id": null
+            },
+            {
+                "content": "How do reimbursements work and how long do they take after approval?",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            }
+        ],
+        [
+            {
+                "content": "You are a helpful assistant. Your job is to answer the user's query by using the tools provided. Do not make up answers.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "system",
+                "name": null,
+                "id": null
+            },
+            {
+                "content": "How do reimbursements work and how long do they take after approval?",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "policy_lookup",
+                        "arguments": "{\"query\": \"how reimbursements work\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--cc1280c9-7a4d-4d43-8cca-097018178885-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "policy_lookup",
+                        "args": {
+                            "query": "reimbursement timeline after approval"
+                        },
+                        "id": "1ca4da79-a8aa-432e-a5ad-537916c02c8f",
+                        "type": "tool_call"
+                    },
+                    {
+                        "name": "policy_lookup",
+                        "args": {
+                            "query": "how reimbursements work"
+                        },
+                        "id": "a267af84-9b70-4bc3-896d-24faec933556",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 209,
+                    "output_tokens": 17,
+                    "total_tokens": 226,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ],
+        [
+            {
+                "content": "You are a helpful assistant. Your job is to answer the user's query by using the tools provided. Do not make up answers.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "system",
+                "name": null,
+                "id": null
+            },
+            {
+                "content": "How do reimbursements work and how long do they take after approval?",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "policy_lookup",
+                        "arguments": "{\"query\": \"how reimbursements work\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--cc1280c9-7a4d-4d43-8cca-097018178885-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "policy_lookup",
+                        "args": {
+                            "query": "reimbursement timeline after approval"
+                        },
+                        "id": "1ca4da79-a8aa-432e-a5ad-537916c02c8f",
+                        "type": "tool_call"
+                    },
+                    {
+                        "name": "policy_lookup",
+                        "args": {
+                            "query": "how reimbursements work"
+                        },
+                        "id": "a267af84-9b70-4bc3-896d-24faec933556",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 209,
+                    "output_tokens": 17,
+                    "total_tokens": 226,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "Error: TypeError(\"string indices must be integers, not 'str'\")\n Please fix your mistakes.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "policy_lookup",
+                "id": null,
+                "tool_call_id": "1ca4da79-a8aa-432e-a5ad-537916c02c8f",
+                "artifact": null,
+                "status": "error"
+            },
+            {
+                "content": "Error: TypeError(\"string indices must be integers, not 'str'\")\n Please fix your mistakes.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "policy_lookup",
+                "id": null,
+                "tool_call_id": "a267af84-9b70-4bc3-896d-24faec933556",
+                "artifact": null,
+                "status": "error"
+            }
+        ],
+        [
+            {
+                "content": "You are a helpful assistant. Your job is to answer the user's query by using the tools provided. Do not make up answers.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "system",
+                "name": null,
+                "id": null
+            },
+            {
+                "content": "How do reimbursements work and how long do they take after approval?",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "policy_lookup",
+                        "arguments": "{\"query\": \"how reimbursements work\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--cc1280c9-7a4d-4d43-8cca-097018178885-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "policy_lookup",
+                        "args": {
+                            "query": "reimbursement timeline after approval"
+                        },
+                        "id": "1ca4da79-a8aa-432e-a5ad-537916c02c8f",
+                        "type": "tool_call"
+                    },
+                    {
+                        "name": "policy_lookup",
+                        "args": {
+                            "query": "how reimbursements work"
+                        },
+                        "id": "a267af84-9b70-4bc3-896d-24faec933556",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 209,
+                    "output_tokens": 17,
+                    "total_tokens": 226,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "Error: TypeError(\"string indices must be integers, not 'str'\")\n Please fix your mistakes.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "policy_lookup",
+                "id": null,
+                "tool_call_id": "1ca4da79-a8aa-432e-a5ad-537916c02c8f",
+                "artifact": null,
+                "status": "error"
+            },
+            {
+                "content": "Error: TypeError(\"string indices must be integers, not 'str'\")\n Please fix your mistakes.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "policy_lookup",
+                "id": null,
+                "tool_call_id": "a267af84-9b70-4bc3-896d-24faec933556",
+                "artifact": null,
+                "status": "error"
+            },
+            {
+                "content": "I encountered an error trying to look up the information using the policy lookup tool. I will try a different approach.",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "retriever",
+                        "arguments": "{\"query\": \"reimbursement timeline after approval\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--d9811362-02b3-41d5-ae8b-840176fcb7b1-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "retriever",
+                        "args": {
+                            "query": "how reimbursements work"
+                        },
+                        "id": "ede51879-dabf-409a-be46-ef46dc19d1b3",
+                        "type": "tool_call"
+                    },
+                    {
+                        "name": "retriever",
+                        "args": {
+                            "query": "reimbursement timeline after approval"
+                        },
+                        "id": "6362ee89-9590-4823-b68c-af3622ecd4f6",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 274,
+                    "output_tokens": 39,
+                    "total_tokens": 313,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ],
+        [
+            {
+                "content": "You are a helpful assistant. Your job is to answer the user's query by using the tools provided. Do not make up answers.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "system",
+                "name": null,
+                "id": null
+            },
+            {
+                "content": "How do reimbursements work and how long do they take after approval?",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "policy_lookup",
+                        "arguments": "{\"query\": \"how reimbursements work\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--cc1280c9-7a4d-4d43-8cca-097018178885-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "policy_lookup",
+                        "args": {
+                            "query": "reimbursement timeline after approval"
+                        },
+                        "id": "1ca4da79-a8aa-432e-a5ad-537916c02c8f",
+                        "type": "tool_call"
+                    },
+                    {
+                        "name": "policy_lookup",
+                        "args": {
+                            "query": "how reimbursements work"
+                        },
+                        "id": "a267af84-9b70-4bc3-896d-24faec933556",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 209,
+                    "output_tokens": 17,
+                    "total_tokens": 226,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "Error: TypeError(\"string indices must be integers, not 'str'\")\n Please fix your mistakes.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "policy_lookup",
+                "id": null,
+                "tool_call_id": "1ca4da79-a8aa-432e-a5ad-537916c02c8f",
+                "artifact": null,
+                "status": "error"
+            },
+            {
+                "content": "Error: TypeError(\"string indices must be integers, not 'str'\")\n Please fix your mistakes.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "policy_lookup",
+                "id": null,
+                "tool_call_id": "a267af84-9b70-4bc3-896d-24faec933556",
+                "artifact": null,
+                "status": "error"
+            },
+            {
+                "content": "I encountered an error trying to look up the information using the policy lookup tool. I will try a different approach.",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "retriever",
+                        "arguments": "{\"query\": \"reimbursement timeline after approval\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--d9811362-02b3-41d5-ae8b-840176fcb7b1-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "retriever",
+                        "args": {
+                            "query": "how reimbursements work"
+                        },
+                        "id": "ede51879-dabf-409a-be46-ef46dc19d1b3",
+                        "type": "tool_call"
+                    },
+                    {
+                        "name": "retriever",
+                        "args": {
+                            "query": "reimbursement timeline after approval"
+                        },
+                        "id": "6362ee89-9590-4823-b68c-af3622ecd4f6",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 274,
+                    "output_tokens": 39,
+                    "total_tokens": 313,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "Error: TypeError(\"string indices must be integers, not 'str'\")\n Please fix your mistakes.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "retriever",
+                "id": null,
+                "tool_call_id": "ede51879-dabf-409a-be46-ef46dc19d1b3",
+                "artifact": null,
+                "status": "error"
+            },
+            {
+                "content": "Error: TypeError(\"string indices must be integers, not 'str'\")\n Please fix your mistakes.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "retriever",
+                "id": null,
+                "tool_call_id": "6362ee89-9590-4823-b68c-af3622ecd4f6",
+                "artifact": null,
+                "status": "error"
+            }
+        ],
+        [
+            {
+                "content": "You are a helpful assistant. Your job is to answer the user's query by using the tools provided. Do not make up answers.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "system",
+                "name": null,
+                "id": null
+            },
+            {
+                "content": "How do reimbursements work and how long do they take after approval?",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "policy_lookup",
+                        "arguments": "{\"query\": \"how reimbursements work\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--cc1280c9-7a4d-4d43-8cca-097018178885-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "policy_lookup",
+                        "args": {
+                            "query": "reimbursement timeline after approval"
+                        },
+                        "id": "1ca4da79-a8aa-432e-a5ad-537916c02c8f",
+                        "type": "tool_call"
+                    },
+                    {
+                        "name": "policy_lookup",
+                        "args": {
+                            "query": "how reimbursements work"
+                        },
+                        "id": "a267af84-9b70-4bc3-896d-24faec933556",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 209,
+                    "output_tokens": 17,
+                    "total_tokens": 226,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "Error: TypeError(\"string indices must be integers, not 'str'\")\n Please fix your mistakes.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "policy_lookup",
+                "id": null,
+                "tool_call_id": "1ca4da79-a8aa-432e-a5ad-537916c02c8f",
+                "artifact": null,
+                "status": "error"
+            },
+            {
+                "content": "Error: TypeError(\"string indices must be integers, not 'str'\")\n Please fix your mistakes.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "policy_lookup",
+                "id": null,
+                "tool_call_id": "a267af84-9b70-4bc3-896d-24faec933556",
+                "artifact": null,
+                "status": "error"
+            },
+            {
+                "content": "I encountered an error trying to look up the information using the policy lookup tool. I will try a different approach.",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "retriever",
+                        "arguments": "{\"query\": \"reimbursement timeline after approval\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--d9811362-02b3-41d5-ae8b-840176fcb7b1-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "retriever",
+                        "args": {
+                            "query": "how reimbursements work"
+                        },
+                        "id": "ede51879-dabf-409a-be46-ef46dc19d1b3",
+                        "type": "tool_call"
+                    },
+                    {
+                        "name": "retriever",
+                        "args": {
+                            "query": "reimbursement timeline after approval"
+                        },
+                        "id": "6362ee89-9590-4823-b68c-af3622ecd4f6",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 274,
+                    "output_tokens": 39,
+                    "total_tokens": 313,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "Error: TypeError(\"string indices must be integers, not 'str'\")\n Please fix your mistakes.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "retriever",
+                "id": null,
+                "tool_call_id": "ede51879-dabf-409a-be46-ef46dc19d1b3",
+                "artifact": null,
+                "status": "error"
+            },
+            {
+                "content": "Error: TypeError(\"string indices must be integers, not 'str'\")\n Please fix your mistakes.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "retriever",
+                "id": null,
+                "tool_call_id": "6362ee89-9590-4823-b68c-af3622ecd4f6",
+                "artifact": null,
+                "status": "error"
+            },
+            {
+                "content": "I am sorry, I cannot provide the answer at this time. There seems to be an issue with the tools. Please try again later.",
+                "additional_kwargs": {},
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--e21194d2-90d7-4171-9334-e5a9e01009e9-0",
+                "example": false,
+                "tool_calls": [],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 335,
+                    "output_tokens": 28,
+                    "total_tokens": 363,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ]
+    ],
+    "Compute: (125*6)-50 and 15% of 640": [
+        [
+            {
+                "content": "You are a helpful assistant. Your job is to answer the user's query by using the tools provided. Do not make up answers.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "system",
+                "name": null,
+                "id": null
+            },
+            {
+                "content": "Compute: (125*6)-50 and 15% of 640",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            }
+        ],
+        [
+            {
+                "content": "You are a helpful assistant. Your job is to answer the user's query by using the tools provided. Do not make up answers.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "system",
+                "name": null,
+                "id": null
+            },
+            {
+                "content": "Compute: (125*6)-50 and 15% of 640",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "calculator",
+                        "arguments": "{\"expression\": \"0.15 * 640\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--87de6b12-3ad2-4d60-aa65-4fd3546fe682-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "calculator",
+                        "args": {
+                            "expression": "(125*6)-50"
+                        },
+                        "id": "e018218d-a0f5-47c5-9b7b-5191a9bd59bf",
+                        "type": "tool_call"
+                    },
+                    {
+                        "name": "calculator",
+                        "args": {
+                            "expression": "0.15 * 640"
+                        },
+                        "id": "9c9ba48c-bd5d-4702-8892-b6fe003ecc94",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 216,
+                    "output_tokens": 22,
+                    "total_tokens": 238,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ],
+        [
+            {
+                "content": "You are a helpful assistant. Your job is to answer the user's query by using the tools provided. Do not make up answers.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "system",
+                "name": null,
+                "id": null
+            },
+            {
+                "content": "Compute: (125*6)-50 and 15% of 640",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "calculator",
+                        "arguments": "{\"expression\": \"0.15 * 640\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--87de6b12-3ad2-4d60-aa65-4fd3546fe682-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "calculator",
+                        "args": {
+                            "expression": "(125*6)-50"
+                        },
+                        "id": "e018218d-a0f5-47c5-9b7b-5191a9bd59bf",
+                        "type": "tool_call"
+                    },
+                    {
+                        "name": "calculator",
+                        "args": {
+                            "expression": "0.15 * 640"
+                        },
+                        "id": "9c9ba48c-bd5d-4702-8892-b6fe003ecc94",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 216,
+                    "output_tokens": 22,
+                    "total_tokens": 238,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "The result of the expression '(125*6)-50' is: 700",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "calculator",
+                "id": null,
+                "tool_call_id": "e018218d-a0f5-47c5-9b7b-5191a9bd59bf",
+                "artifact": null,
+                "status": "success"
+            },
+            {
+                "content": "The result of the expression '0.15 * 640' is: 96.0",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "calculator",
+                "id": null,
+                "tool_call_id": "9c9ba48c-bd5d-4702-8892-b6fe003ecc94",
+                "artifact": null,
+                "status": "success"
+            }
+        ],
+        [
+            {
+                "content": "You are a helpful assistant. Your job is to answer the user's query by using the tools provided. Do not make up answers.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "system",
+                "name": null,
+                "id": null
+            },
+            {
+                "content": "Compute: (125*6)-50 and 15% of 640",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "calculator",
+                        "arguments": "{\"expression\": \"0.15 * 640\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--87de6b12-3ad2-4d60-aa65-4fd3546fe682-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "calculator",
+                        "args": {
+                            "expression": "(125*6)-50"
+                        },
+                        "id": "e018218d-a0f5-47c5-9b7b-5191a9bd59bf",
+                        "type": "tool_call"
+                    },
+                    {
+                        "name": "calculator",
+                        "args": {
+                            "expression": "0.15 * 640"
+                        },
+                        "id": "9c9ba48c-bd5d-4702-8892-b6fe003ecc94",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 216,
+                    "output_tokens": 22,
+                    "total_tokens": 238,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "The result of the expression '(125*6)-50' is: 700",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "calculator",
+                "id": null,
+                "tool_call_id": "e018218d-a0f5-47c5-9b7b-5191a9bd59bf",
+                "artifact": null,
+                "status": "success"
+            },
+            {
+                "content": "The result of the expression '0.15 * 640' is: 96.0",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "calculator",
+                "id": null,
+                "tool_call_id": "9c9ba48c-bd5d-4702-8892-b6fe003ecc94",
+                "artifact": null,
+                "status": "success"
+            },
+            {
+                "content": "(125*6)-50 is 700 and 15% of 640 is 96.0",
+                "additional_kwargs": {},
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--96235944-dc03-4eba-9862-02658f8e883f-0",
+                "example": false,
+                "tool_calls": [],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 286,
+                    "output_tokens": 31,
+                    "total_tokens": 317,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ]
+    ],
+    "Finance FAQ \u2013 Reimbursements": [
+        [
+            {
+                "content": "Finance FAQ \u2013 Reimbursements",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            }
+        ],
+        [
+            {
+                "content": "Finance FAQ \u2013 Reimbursements",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "policy_lookup",
+                        "arguments": "{\"query\": \"Reimbursements\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--09e2cf7a-8c26-4173-a875-074aa6ad6eec-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "policy_lookup",
+                        "args": {
+                            "query": "Reimbursements"
+                        },
+                        "id": "e28b8629-f187-446b-937f-976822b492dd",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 213,
+                    "output_tokens": 7,
+                    "total_tokens": 220,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ],
+        [
+            {
+                "content": "Finance FAQ \u2013 Reimbursements",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "policy_lookup",
+                        "arguments": "{\"query\": \"Reimbursements\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--09e2cf7a-8c26-4173-a875-074aa6ad6eec-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "policy_lookup",
+                        "args": {
+                            "query": "Reimbursements"
+                        },
+                        "id": "e28b8629-f187-446b-937f-976822b492dd",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 213,
+                    "output_tokens": 7,
+                    "total_tokens": 220,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "Submit reimbursements within 30 days. Keep original receipts. Typical settlement time is 7 business days after approval.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "policy_lookup",
+                "id": null,
+                "tool_call_id": "e28b8629-f187-446b-937f-976822b492dd",
+                "artifact": null,
+                "status": "success"
+            }
+        ],
+        [
+            {
+                "content": "Finance FAQ \u2013 Reimbursements",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "policy_lookup",
+                        "arguments": "{\"query\": \"Reimbursements\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--09e2cf7a-8c26-4173-a875-074aa6ad6eec-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "policy_lookup",
+                        "args": {
+                            "query": "Reimbursements"
+                        },
+                        "id": "e28b8629-f187-446b-937f-976822b492dd",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 213,
+                    "output_tokens": 7,
+                    "total_tokens": 220,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "Submit reimbursements within 30 days. Keep original receipts. Typical settlement time is 7 business days after approval.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "policy_lookup",
+                "id": null,
+                "tool_call_id": "e28b8629-f187-446b-937f-976822b492dd",
+                "artifact": null,
+                "status": "success"
+            },
+            {
+                "content": "Reimbursements should be submitted within 30 days, and you should keep the original receipts. The typical settlement time is 7 business days after approval.",
+                "additional_kwargs": {},
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--9aa42781-923e-49e6-b46d-40ef1326b31c-0",
+                "example": false,
+                "tool_calls": [],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 248,
+                    "output_tokens": 33,
+                    "total_tokens": 281,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ]
+    ],
+    "Math Snippets": [
+        [
+            {
+                "content": "Math Snippets",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            }
+        ],
+        [
+            {
+                "content": "Math Snippets",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "Got it. I can help with math calculations. What expression would you like me to evaluate?",
+                "additional_kwargs": {},
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--f10c1157-a9eb-4bcb-b5f3-20f8f0760543-0",
+                "example": false,
+                "tool_calls": [],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 210,
+                    "output_tokens": 20,
+                    "total_tokens": 230,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ]
+    ],
+    "15% or 640": [
+        [
+            {
+                "content": "15% or 640",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            }
+        ],
+        [
+            {
+                "content": "15% or 640",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "calculator",
+                        "arguments": "{\"expression\": \"0.15 * 640\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--ca24501e-2263-4419-94bb-88130af3e4ca-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "calculator",
+                        "args": {
+                            "expression": "0.15 * 640"
+                        },
+                        "id": "9a699418-ebaa-4afb-91cd-1283ab6ca9ab",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 215,
+                    "output_tokens": 11,
+                    "total_tokens": 226,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ],
+        [
+            {
+                "content": "15% or 640",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "calculator",
+                        "arguments": "{\"expression\": \"0.15 * 640\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--ca24501e-2263-4419-94bb-88130af3e4ca-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "calculator",
+                        "args": {
+                            "expression": "0.15 * 640"
+                        },
+                        "id": "9a699418-ebaa-4afb-91cd-1283ab6ca9ab",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 215,
+                    "output_tokens": 11,
+                    "total_tokens": 226,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "The result of the expression '0.15 * 640' is: 96.0",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "calculator",
+                "id": null,
+                "tool_call_id": "9a699418-ebaa-4afb-91cd-1283ab6ca9ab",
+                "artifact": null,
+                "status": "success"
+            }
+        ],
+        [
+            {
+                "content": "15% or 640",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "calculator",
+                        "arguments": "{\"expression\": \"0.15 * 640\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--ca24501e-2263-4419-94bb-88130af3e4ca-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "calculator",
+                        "args": {
+                            "expression": "0.15 * 640"
+                        },
+                        "id": "9a699418-ebaa-4afb-91cd-1283ab6ca9ab",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 215,
+                    "output_tokens": 11,
+                    "total_tokens": 226,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "The result of the expression '0.15 * 640' is: 96.0",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "calculator",
+                "id": null,
+                "tool_call_id": "9a699418-ebaa-4afb-91cd-1283ab6ca9ab",
+                "artifact": null,
+                "status": "success"
+            },
+            {
+                "content": "15% of 640 is 96.0.",
+                "additional_kwargs": {},
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--5c922942-ce30-48df-b192-c81a5710985d-0",
+                "example": false,
+                "tool_calls": [],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 251,
+                    "output_tokens": 16,
+                    "total_tokens": 267,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ]
+    ],
+    "(125 * 6) - 50": [
+        [
+            {
+                "content": "(125 * 6) - 50",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            }
+        ],
+        [
+            {
+                "content": "(125 * 6) - 50",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "calculator",
+                        "arguments": "{\"expression\": \"(125 * 6) - 50\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--8f72776a-a976-47ae-8257-177b68054c4d-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "calculator",
+                        "args": {
+                            "expression": "(125 * 6) - 50"
+                        },
+                        "id": "9d1356b2-19ec-4f20-82fa-668fc54a6368",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 219,
+                    "output_tokens": 14,
+                    "total_tokens": 233,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ],
+        [
+            {
+                "content": "(125 * 6) - 50",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "calculator",
+                        "arguments": "{\"expression\": \"(125 * 6) - 50\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--8f72776a-a976-47ae-8257-177b68054c4d-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "calculator",
+                        "args": {
+                            "expression": "(125 * 6) - 50"
+                        },
+                        "id": "9d1356b2-19ec-4f20-82fa-668fc54a6368",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 219,
+                    "output_tokens": 14,
+                    "total_tokens": 233,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "The result of the expression '(125 * 6) - 50' is: 700",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "calculator",
+                "id": null,
+                "tool_call_id": "9d1356b2-19ec-4f20-82fa-668fc54a6368",
+                "artifact": null,
+                "status": "success"
+            }
+        ],
+        [
+            {
+                "content": "(125 * 6) - 50",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "calculator",
+                        "arguments": "{\"expression\": \"(125 * 6) - 50\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--8f72776a-a976-47ae-8257-177b68054c4d-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "calculator",
+                        "args": {
+                            "expression": "(125 * 6) - 50"
+                        },
+                        "id": "9d1356b2-19ec-4f20-82fa-668fc54a6368",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 219,
+                    "output_tokens": 14,
+                    "total_tokens": 233,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "The result of the expression '(125 * 6) - 50' is: 700",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "calculator",
+                "id": null,
+                "tool_call_id": "9d1356b2-19ec-4f20-82fa-668fc54a6368",
+                "artifact": null,
+                "status": "success"
+            },
+            {
+                "content": "700",
+                "additional_kwargs": {},
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--0846c0f4-6c46-4a00-8daa-92572ad98e1a-0",
+                "example": false,
+                "tool_calls": [],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 259,
+                    "output_tokens": 4,
+                    "total_tokens": 263,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ]
+    ],
+    "5+10": [
+        [
+            {
+                "content": "5+10",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            }
+        ],
+        [
+            {
+                "content": "5+10",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "calculator",
+                        "arguments": "{\"expression\": \"5+10\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--bc4451e3-61e4-4cc8-80a2-d8aba686e9f5-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "calculator",
+                        "args": {
+                            "expression": "5+10"
+                        },
+                        "id": "e87ccf46-503e-476d-a0ca-c51f4515f9fe",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 211,
+                    "output_tokens": 6,
+                    "total_tokens": 217,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ],
+        [
+            {
+                "content": "5+10",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "calculator",
+                        "arguments": "{\"expression\": \"5+10\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--bc4451e3-61e4-4cc8-80a2-d8aba686e9f5-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "calculator",
+                        "args": {
+                            "expression": "5+10"
+                        },
+                        "id": "e87ccf46-503e-476d-a0ca-c51f4515f9fe",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 211,
+                    "output_tokens": 6,
+                    "total_tokens": 217,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "The result of the expression '5+10' is: 15",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "calculator",
+                "id": null,
+                "tool_call_id": "e87ccf46-503e-476d-a0ca-c51f4515f9fe",
+                "artifact": null,
+                "status": "success"
+            }
+        ],
+        [
+            {
+                "content": "5+10",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "calculator",
+                        "arguments": "{\"expression\": \"5+10\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--bc4451e3-61e4-4cc8-80a2-d8aba686e9f5-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "calculator",
+                        "args": {
+                            "expression": "5+10"
+                        },
+                        "id": "e87ccf46-503e-476d-a0ca-c51f4515f9fe",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 211,
+                    "output_tokens": 6,
+                    "total_tokens": 217,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "The result of the expression '5+10' is: 15",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "calculator",
+                "id": null,
+                "tool_call_id": "e87ccf46-503e-476d-a0ca-c51f4515f9fe",
+                "artifact": null,
+                "status": "success"
+            },
+            {
+                "content": "15",
+                "additional_kwargs": {},
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--f1174157-8855-4f37-858c-2b40fdf245ed-0",
+                "example": false,
+                "tool_calls": [],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 235,
+                    "output_tokens": 3,
+                    "total_tokens": 238,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ]
+    ],
+    "LLUMO AI \u2013 Core Value": [
+        [
+            {
+                "content": "LLUMO AI \u2013 Core Value",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            }
+        ],
+        [
+            {
+                "content": "LLUMO AI \u2013 Core Value",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "policy_lookup",
+                        "arguments": "{\"query\": \"LLUMO AI core values\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--cf38a993-ca22-4506-8f5e-cef30780246d-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "policy_lookup",
+                        "args": {
+                            "query": "LLUMO AI core values"
+                        },
+                        "id": "33a0ac17-41c2-4d45-a18b-6cde4a5783f2",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 214,
+                    "output_tokens": 10,
+                    "total_tokens": 224,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ],
+        [
+            {
+                "content": "LLUMO AI \u2013 Core Value",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "policy_lookup",
+                        "arguments": "{\"query\": \"LLUMO AI core values\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--cf38a993-ca22-4506-8f5e-cef30780246d-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "policy_lookup",
+                        "args": {
+                            "query": "LLUMO AI core values"
+                        },
+                        "id": "33a0ac17-41c2-4d45-a18b-6cde4a5783f2",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 214,
+                    "output_tokens": 10,
+                    "total_tokens": 224,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "No specific policy or FAQ document found that matches the query.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "policy_lookup",
+                "id": null,
+                "tool_call_id": "33a0ac17-41c2-4d45-a18b-6cde4a5783f2",
+                "artifact": null,
+                "status": "success"
+            }
+        ],
+        [
+            {
+                "content": "LLUMO AI \u2013 Core Value",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "policy_lookup",
+                        "arguments": "{\"query\": \"LLUMO AI core values\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--cf38a993-ca22-4506-8f5e-cef30780246d-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "policy_lookup",
+                        "args": {
+                            "query": "LLUMO AI core values"
+                        },
+                        "id": "33a0ac17-41c2-4d45-a18b-6cde4a5783f2",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 214,
+                    "output_tokens": 10,
+                    "total_tokens": 224,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "No specific policy or FAQ document found that matches the query.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "policy_lookup",
+                "id": null,
+                "tool_call_id": "33a0ac17-41c2-4d45-a18b-6cde4a5783f2",
+                "artifact": null,
+                "status": "success"
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "retriever",
+                        "arguments": "{\"query\": \"LLUMO AI core values\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--3f9e96d8-0b01-4b2d-818d-315f153da6d1-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "retriever",
+                        "args": {
+                            "query": "LLUMO AI core values"
+                        },
+                        "id": "6baed7e7-56aa-4b42-b422-6a4c6f1c1d17",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 240,
+                    "output_tokens": 9,
+                    "total_tokens": 249,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ],
+        [
+            {
+                "content": "LLUMO AI \u2013 Core Value",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "policy_lookup",
+                        "arguments": "{\"query\": \"LLUMO AI core values\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--cf38a993-ca22-4506-8f5e-cef30780246d-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "policy_lookup",
+                        "args": {
+                            "query": "LLUMO AI core values"
+                        },
+                        "id": "33a0ac17-41c2-4d45-a18b-6cde4a5783f2",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 214,
+                    "output_tokens": 10,
+                    "total_tokens": 224,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "No specific policy or FAQ document found that matches the query.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "policy_lookup",
+                "id": null,
+                "tool_call_id": "33a0ac17-41c2-4d45-a18b-6cde4a5783f2",
+                "artifact": null,
+                "status": "success"
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "retriever",
+                        "arguments": "{\"query\": \"LLUMO AI core values\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--3f9e96d8-0b01-4b2d-818d-315f153da6d1-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "retriever",
+                        "args": {
+                            "query": "LLUMO AI core values"
+                        },
+                        "id": "6baed7e7-56aa-4b42-b422-6a4c6f1c1d17",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 240,
+                    "output_tokens": 9,
+                    "total_tokens": 249,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "[\"LLUMO AI is an evaluation-first reliability layer for LLM apps. It focuses on automated scoring, actionable insights, and cost savings via prompt compression\u2014helping teams ship trustworthy AI.\"]",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "retriever",
+                "id": null,
+                "tool_call_id": "6baed7e7-56aa-4b42-b422-6a4c6f1c1d17",
+                "artifact": null,
+                "status": "success"
+            }
+        ],
+        [
+            {
+                "content": "LLUMO AI \u2013 Core Value",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "policy_lookup",
+                        "arguments": "{\"query\": \"LLUMO AI core values\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--cf38a993-ca22-4506-8f5e-cef30780246d-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "policy_lookup",
+                        "args": {
+                            "query": "LLUMO AI core values"
+                        },
+                        "id": "33a0ac17-41c2-4d45-a18b-6cde4a5783f2",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 214,
+                    "output_tokens": 10,
+                    "total_tokens": 224,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "No specific policy or FAQ document found that matches the query.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "policy_lookup",
+                "id": null,
+                "tool_call_id": "33a0ac17-41c2-4d45-a18b-6cde4a5783f2",
+                "artifact": null,
+                "status": "success"
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "retriever",
+                        "arguments": "{\"query\": \"LLUMO AI core values\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--3f9e96d8-0b01-4b2d-818d-315f153da6d1-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "retriever",
+                        "args": {
+                            "query": "LLUMO AI core values"
+                        },
+                        "id": "6baed7e7-56aa-4b42-b422-6a4c6f1c1d17",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 240,
+                    "output_tokens": 9,
+                    "total_tokens": 249,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "[\"LLUMO AI is an evaluation-first reliability layer for LLM apps. It focuses on automated scoring, actionable insights, and cost savings via prompt compression\u2014helping teams ship trustworthy AI.\"]",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "retriever",
+                "id": null,
+                "tool_call_id": "6baed7e7-56aa-4b42-b422-6a4c6f1c1d17",
+                "artifact": null,
+                "status": "success"
+            },
+            {
+                "content": "I was not able to find the core values of LLUMO AI. However, I found that LLUMO AI is an evaluation-first reliability layer for LLM apps. It focuses on automated scoring, actionable insights, and cost savings via prompt compression\u2014helping teams ship trustworthy AI.",
+                "additional_kwargs": {},
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--a047de96-c896-4db0-86a1-dde423aaf1ea-0",
+                "example": false,
+                "tool_calls": [],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 290,
+                    "output_tokens": 58,
+                    "total_tokens": 348,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ]
+    ],
+    "LLUMO AI \u2013 Debugger": [
+        [
+            {
+                "content": "LLUMO AI \u2013 Debugger",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            }
+        ],
+        [
+            {
+                "content": "LLUMO AI \u2013 Debugger",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "How can I help you with LLUMO AI Debugger?",
+                "additional_kwargs": {},
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--e2e757e3-4976-4d4f-a54a-781cef0bd435-0",
+                "example": false,
+                "tool_calls": [],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 214,
+                    "output_tokens": 14,
+                    "total_tokens": 228,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ]
+    ],
+    "tell me about LLUMO AI \u2013 Debugger": [
+        [
+            {
+                "content": "tell me about LLUMO AI \u2013 Debugger",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            }
+        ],
+        [
+            {
+                "content": "tell me about LLUMO AI \u2013 Debugger",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "retriever",
+                        "arguments": "{\"query\": \"LLUMO AI \\u2013 Debugger\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--17da6c41-1b91-4035-9fed-fdd7b0c4aa13-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "retriever",
+                        "args": {
+                            "query": "LLUMO AI \u2013 Debugger"
+                        },
+                        "id": "5c69fcda-dfae-4150-8a34-ce1f2b608ae3",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 217,
+                    "output_tokens": 10,
+                    "total_tokens": 227,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ],
+        [
+            {
+                "content": "tell me about LLUMO AI \u2013 Debugger",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "retriever",
+                        "arguments": "{\"query\": \"LLUMO AI \\u2013 Debugger\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--17da6c41-1b91-4035-9fed-fdd7b0c4aa13-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "retriever",
+                        "args": {
+                            "query": "LLUMO AI \u2013 Debugger"
+                        },
+                        "id": "5c69fcda-dfae-4150-8a34-ce1f2b608ae3",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 217,
+                    "output_tokens": 10,
+                    "total_tokens": 227,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "[\"LLUMO\u2019s Debugger shows run-level logs, stepwise tool traces, and a flow graph to isolate failure points such as tool selection errors or context mismatch.\"]",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "retriever",
+                "id": null,
+                "tool_call_id": "5c69fcda-dfae-4150-8a34-ce1f2b608ae3",
+                "artifact": null,
+                "status": "success"
+            }
+        ],
+        [
+            {
+                "content": "tell me about LLUMO AI \u2013 Debugger",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "retriever",
+                        "arguments": "{\"query\": \"LLUMO AI \\u2013 Debugger\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--17da6c41-1b91-4035-9fed-fdd7b0c4aa13-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "retriever",
+                        "args": {
+                            "query": "LLUMO AI \u2013 Debugger"
+                        },
+                        "id": "5c69fcda-dfae-4150-8a34-ce1f2b608ae3",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 217,
+                    "output_tokens": 10,
+                    "total_tokens": 227,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "[\"LLUMO\u2019s Debugger shows run-level logs, stepwise tool traces, and a flow graph to isolate failure points such as tool selection errors or context mismatch.\"]",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "retriever",
+                "id": null,
+                "tool_call_id": "5c69fcda-dfae-4150-8a34-ce1f2b608ae3",
+                "artifact": null,
+                "status": "success"
+            },
+            {
+                "content": "LLUMO's Debugger provides run-level logs, stepwise tool traces, and a flow graph to help you identify failure points, such as tool selection errors or context mismatch.",
+                "additional_kwargs": {},
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--40159661-348b-4c0e-83a0-b5a58f51e88f-0",
+                "example": false,
+                "tool_calls": [],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 264,
+                    "output_tokens": 38,
+                    "total_tokens": 302,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ]
+    ],
+    "Company Policy \u2013 Working Hours": [
+        [
+            {
+                "content": "Company Policy \u2013 Working Hours",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            }
+        ],
+        [
+            {
+                "content": "Company Policy \u2013 Working Hours",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "policy_lookup",
+                        "arguments": "{\"query\": \"Working Hours\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--aba0678c-30da-403f-90c0-31556509e10d-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "policy_lookup",
+                        "args": {
+                            "query": "Working Hours"
+                        },
+                        "id": "69cbc282-fabf-408f-90d2-d84ab147f0e7",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 212,
+                    "output_tokens": 6,
+                    "total_tokens": 218,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ],
+        [
+            {
+                "content": "Company Policy \u2013 Working Hours",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "policy_lookup",
+                        "arguments": "{\"query\": \"Working Hours\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--aba0678c-30da-403f-90c0-31556509e10d-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "policy_lookup",
+                        "args": {
+                            "query": "Working Hours"
+                        },
+                        "id": "69cbc282-fabf-408f-90d2-d84ab147f0e7",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 212,
+                    "output_tokens": 6,
+                    "total_tokens": 218,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "Standard working hours are 10:00 to 18:30 IST, Monday to Friday. Flexible timings are allowed with manager approval.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "policy_lookup",
+                "id": null,
+                "tool_call_id": "69cbc282-fabf-408f-90d2-d84ab147f0e7",
+                "artifact": null,
+                "status": "success"
+            }
+        ],
+        [
+            {
+                "content": "Company Policy \u2013 Working Hours",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "policy_lookup",
+                        "arguments": "{\"query\": \"Working Hours\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--aba0678c-30da-403f-90c0-31556509e10d-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "policy_lookup",
+                        "args": {
+                            "query": "Working Hours"
+                        },
+                        "id": "69cbc282-fabf-408f-90d2-d84ab147f0e7",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 212,
+                    "output_tokens": 6,
+                    "total_tokens": 218,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "Standard working hours are 10:00 to 18:30 IST, Monday to Friday. Flexible timings are allowed with manager approval.",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "policy_lookup",
+                "id": null,
+                "tool_call_id": "69cbc282-fabf-408f-90d2-d84ab147f0e7",
+                "artifact": null,
+                "status": "success"
+            },
+            {
+                "content": "Standard working hours are 10:00 to 18:30 IST, Monday to Friday. Flexible timings are allowed with manager approval.",
+                "additional_kwargs": {},
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--09322497-bb21-43e3-aef6-8442fce8ffa6-0",
+                "example": false,
+                "tool_calls": [],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 253,
+                    "output_tokens": 32,
+                    "total_tokens": 285,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ]
+    ],
+    "solve the 15% of 640": [
+        [
+            {
+                "content": "solve the 15% of 640",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            }
+        ],
+        [
+            {
+                "content": "solve the 15% of 640",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "calculator",
+                        "arguments": "{\"expression\": \"0.15 * 640\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--c28e0a58-9e95-4492-8061-b08f836045d2-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "calculator",
+                        "args": {
+                            "expression": "0.15 * 640"
+                        },
+                        "id": "2b71813a-dd95-403c-b58b-35d7cbc887d5",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 218,
+                    "output_tokens": 11,
+                    "total_tokens": 229,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ],
+        [
+            {
+                "content": "solve the 15% of 640",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "calculator",
+                        "arguments": "{\"expression\": \"0.15 * 640\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--c28e0a58-9e95-4492-8061-b08f836045d2-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "calculator",
+                        "args": {
+                            "expression": "0.15 * 640"
+                        },
+                        "id": "2b71813a-dd95-403c-b58b-35d7cbc887d5",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 218,
+                    "output_tokens": 11,
+                    "total_tokens": 229,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "The result of the expression '0.15 * 640' is: 96.0",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "calculator",
+                "id": null,
+                "tool_call_id": "2b71813a-dd95-403c-b58b-35d7cbc887d5",
+                "artifact": null,
+                "status": "success"
+            }
+        ],
+        [
+            {
+                "content": "solve the 15% of 640",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "calculator",
+                        "arguments": "{\"expression\": \"0.15 * 640\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--c28e0a58-9e95-4492-8061-b08f836045d2-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "calculator",
+                        "args": {
+                            "expression": "0.15 * 640"
+                        },
+                        "id": "2b71813a-dd95-403c-b58b-35d7cbc887d5",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 218,
+                    "output_tokens": 11,
+                    "total_tokens": 229,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "The result of the expression '0.15 * 640' is: 96.0",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "calculator",
+                "id": null,
+                "tool_call_id": "2b71813a-dd95-403c-b58b-35d7cbc887d5",
+                "artifact": null,
+                "status": "success"
+            },
+            {
+                "content": "15% of 640 is 96.0.",
+                "additional_kwargs": {},
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--516d9dcb-8aeb-40f4-b58b-36d50f3deccf-0",
+                "example": false,
+                "tool_calls": [],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 254,
+                    "output_tokens": 16,
+                    "total_tokens": 270,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ]
+    ],
+    "125*6 - 50": [
+        [
+            {
+                "content": "125*6 - 50",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            }
+        ],
+        [
+            {
+                "content": "125*6 - 50",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "calculator",
+                        "arguments": "{\"expression\": \"125*6 - 50\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--37c19e40-3d7b-462c-a217-82e083128c27-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "calculator",
+                        "args": {
+                            "expression": "125*6 - 50"
+                        },
+                        "id": "074ce3ef-b8c4-4b9d-885e-d89af80ff11e",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 216,
+                    "output_tokens": 11,
+                    "total_tokens": 227,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ],
+        [
+            {
+                "content": "125*6 - 50",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "calculator",
+                        "arguments": "{\"expression\": \"125*6 - 50\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--37c19e40-3d7b-462c-a217-82e083128c27-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "calculator",
+                        "args": {
+                            "expression": "125*6 - 50"
+                        },
+                        "id": "074ce3ef-b8c4-4b9d-885e-d89af80ff11e",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 216,
+                    "output_tokens": 11,
+                    "total_tokens": 227,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "The result of the expression '125*6 - 50' is: 700",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "calculator",
+                "id": null,
+                "tool_call_id": "074ce3ef-b8c4-4b9d-885e-d89af80ff11e",
+                "artifact": null,
+                "status": "success"
+            }
+        ],
+        [
+            {
+                "content": "125*6 - 50",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "human",
+                "name": null,
+                "id": null,
+                "example": false
+            },
+            {
+                "content": "",
+                "additional_kwargs": {
+                    "function_call": {
+                        "name": "calculator",
+                        "arguments": "{\"expression\": \"125*6 - 50\"}"
+                    }
+                },
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--37c19e40-3d7b-462c-a217-82e083128c27-0",
+                "example": false,
+                "tool_calls": [
+                    {
+                        "name": "calculator",
+                        "args": {
+                            "expression": "125*6 - 50"
+                        },
+                        "id": "074ce3ef-b8c4-4b9d-885e-d89af80ff11e",
+                        "type": "tool_call"
+                    }
+                ],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 216,
+                    "output_tokens": 11,
+                    "total_tokens": 227,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            },
+            {
+                "content": "The result of the expression '125*6 - 50' is: 700",
+                "additional_kwargs": {},
+                "response_metadata": {},
+                "type": "tool",
+                "name": "calculator",
+                "id": null,
+                "tool_call_id": "074ce3ef-b8c4-4b9d-885e-d89af80ff11e",
+                "artifact": null,
+                "status": "success"
+            },
+            {
+                "content": "700",
+                "additional_kwargs": {},
+                "response_metadata": {
+                    "prompt_feedback": {
+                        "block_reason": 0,
+                        "safety_ratings": []
+                    },
+                    "finish_reason": "STOP",
+                    "model_name": "gemini-2.0-flash",
+                    "safety_ratings": []
+                },
+                "type": "ai",
+                "name": null,
+                "id": "run--82edc035-357d-405d-8bd7-363be3c0d507-0",
+                "example": false,
+                "tool_calls": [],
+                "invalid_tool_calls": [],
+                "usage_metadata": {
+                    "input_tokens": 251,
+                    "output_tokens": 4,
+                    "total_tokens": 255,
+                    "input_token_details": {
+                        "cache_read": 0
+                    }
+                }
+            }
+        ]
+    ]
+}
