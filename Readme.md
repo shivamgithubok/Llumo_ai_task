@@ -66,18 +66,18 @@ knowledgeBase.txt is present in the same directory as agent.py.
 ## USE Gemini API
 
 ## Results
-  **Query** :- What is LLUMO AI's core value proposition?
-     **ANS** :-  I was not able to find the core values of LLUMO AI. However, I found that LLUMO AI is an evaluation-first reliability layer for LLM apps. It focuses on automated scoring, actionable insights, and cost savings via prompt compression—helping teams ship trustworthy AI.
+  -**Query** : What is LLUMO AI's core value proposition?
+     -**ANS** :  I was not able to find the core values of LLUMO AI. However, I found that LLUMO AI is an evaluation-first reliability layer for LLM apps. It focuses on automated scoring, actionable insights, and cost savings via prompt compression—helping teams ship trustworthy AI.
 
-  **Query** :- What does the LLUMO Debugger show that helps isolate failures?
-     **ANS** :- LLUMO's Debugger provides run-level logs, stepwise tool traces, and a flow graph to help you identify failure points, such as tool selection errors or context mismatch.
+  -**Query** : What does the LLUMO Debugger show that helps isolate failures?
+     -**ANS** : LLUMO's Debugger provides run-level logs, stepwise tool traces, and a flow graph to help you identify failure points, such as tool selection errors or context mismatch.
 
-  **Query** :- What are the official working hours and overtime rules?
-     **ANS** :- Standard working hours are 10:00 to 18:30 IST, Monday to Friday. Flexible timings are allowed with manager approval.
-  **Query** :- How do reimbursements work and how long do they take after approval?
-     **ANS** :- Reimbursements should be submitted within 30 days, and you should keep the original receipts. The typical settlement time is 7 business days after approval.
+  -**Query** : What are the official working hours and overtime rules?
+     -**ANS** : Standard working hours are 10:00 to 18:30 IST, Monday to Friday. Flexible timings are allowed with manager approval.
+  -**Query** : How do reimbursements work and how long do they take after approval?
+     -**ANS** : Reimbursements should be submitted within 30 days, and you should keep the original receipts. The typical settlement time is 7 business days after approval.
 
-  **Query** :- Compute: (125 * 6) - 50 
-     **ANS** :- 700
-  **Query** :- 15% of 640
-     **ANS** :- 15% of 640 is 96.0
+  -**Query** : Compute: (125 * 6) - 50 
+     -**ANS** : 700
+  -**Query** : 15% of 640
+     -**ANS** : 15% of 640 is 96.0
