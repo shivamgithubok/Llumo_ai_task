@@ -17,8 +17,6 @@ The agent is built using the **langgraph** library, with **Google's Gemini Pro**
 
 ---
 
-##  Project Structure
-
 ## Project Structure
 
 ```
@@ -48,7 +46,7 @@ Conditional edge (should_continue): If the model requests a tool, execution goes
 Loop edge: Connects action → agent so the model can continue reasoning after tool output.
 
 This creates a robust loop:
-Think → Act → Observe → Think until the agent has enough information to answer.
+Think -----→ Act -------→ Observe ------→ Think until the agent has enough information to answer.
 
 
 ## Tool Design and Retriever Choice
@@ -58,11 +56,11 @@ Reasoning: Lightweight, fast, effective for a small, well-defined knowledge base
 Enhancements: Searches in both title and text, returns only clean content (no metadata).
 
 ## Calculator and StringTools
-Calculator: Uses numexpr (safe alternative to Python’s eval()).
-StringTools: Uses re (regex) for reliable text pattern extraction.
+Calculator: Used numexpr (safe alternative to Python’s eval()).
+StringTools: Used re (regex) for reliable text pattern extraction.
 
 ## Assumptions
 knowledgeBase.txt is present in the same directory as agent.py.
-User has a valid Google API key with necessary permissions.
 
-Queries are in English and are self-contained (don’t rely on separate past queries).
+
+## USE Gemini API
