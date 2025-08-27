@@ -5,7 +5,7 @@ The agent is built using the **langgraph** library, with **Google's Gemini Pro**
 
 ---
 
-## 📋 Features
+##  Features
 - **Interactive Chat**: Allows users to input queries in a command-line interface.  
 - **Multi-Tool Capability**: Integrates several tools, including:
   - **Retriever**: For general knowledge base lookups.  
@@ -17,7 +17,7 @@ The agent is built using the **langgraph** library, with **Google's Gemini Pro**
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ## Project Structure
 
@@ -29,7 +29,7 @@ The agent is built using the **langgraph** library, with **Google's Gemini Pro**
 └── README.md             # This file 
 ```
 
-Agent Logic and Design
+ ## Agent Logic and Design
 
 This agent is built as a state graph using langgraph, ideal for cyclical and stateful agent runtimes.
 
@@ -40,30 +40,28 @@ AgentState: Tracks the history of messages in the conversation.
 🔹 Nodes
 
 agent: Calls the Gemini model with the conversation history. The model decides whether to use a tool or respond directly.
-
 action: Executes the tool call requested by the model and returns the result.
 
 🔹 Edges
 
 Conditional edge (should_continue): If the model requests a tool, execution goes to the action node. Otherwise, it ends.
-
 Loop edge: Connects action → agent so the model can continue reasoning after tool output.
 
 This creates a robust loop:
 Think → Act → Observe → Think until the agent has enough information to answer.
 
 
-Tool Design and Retriever Choice
+## Tool Design and Retriever Choice
 Retriever and PolicyLookup
 Choice: Simple keyword-based retriever.
 Reasoning: Lightweight, fast, effective for a small, well-defined knowledge base.
 Enhancements: Searches in both title and text, returns only clean content (no metadata).
 
-Calculator and StringTools
+## Calculator and StringTools
 Calculator: Uses numexpr (safe alternative to Python’s eval()).
 StringTools: Uses re (regex) for reliable text pattern extraction.
 
-Assumptions
+## Assumptions
 knowledgeBase.txt is present in the same directory as agent.py.
 User has a valid Google API key with necessary permissions.
 
